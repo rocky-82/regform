@@ -1,0 +1,22 @@
+body{
+    background-image: url(img/lion.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    min-height: 700px;
+    color: blanchedalmond;
+    border-top: 5px solid rgb(10, 197, 82);
+}
+
+.dark-overlay{
+    background: linear-gradient( rgba(6, 184, 86, 0.8), rgba(7, 71, 124, 0.9));
+    min-height: 700px;
+}
+#home-tab:hover{
+    background: rgb(135, 130, 138);
+}
+#profile-tab:hover{
+    background: rgb(135, 130, 138);
+}
+.container input{
+   border-bottom: 3px solid rgb(19, 182, 114);
+}
